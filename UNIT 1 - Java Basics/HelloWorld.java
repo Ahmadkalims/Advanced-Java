@@ -8,3 +8,6 @@ public class HelloWorld
 	}
 
 }
+
+//Output:
+//Hello world!

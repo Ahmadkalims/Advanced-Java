@@ -28,3 +28,8 @@ public class AdapterExample extends WindowAdapter
         new AdapterExample();
     }
 }
+
+// This program demonstrates the use of WindowAdapter to handle window closing event in AWT.
+//output will be:
+// When the window is closed, it will print "Window closing..." in the console and exit
+

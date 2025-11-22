@@ -46,3 +46,10 @@ public class SwingLoginForm
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program creates a simple login form using Swing.
+//output will be:
+// A window with fields for username and password, and a login button.
+// Entering "admin" as username and "1234" as password shows a "Login
+// Successful!" message; otherwise, it shows "Invalid Credentials!".
+

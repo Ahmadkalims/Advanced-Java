@@ -47,3 +47,7 @@ public class MouseEventDemo extends Frame implements MouseListener, MouseMotionL
         new MouseEventDemo();
     }
 }
+
+// This program demonstrates handling mouse events in an AWT application.
+//output will be:
+// A window that displays the coordinates of mouse clicks within the window.

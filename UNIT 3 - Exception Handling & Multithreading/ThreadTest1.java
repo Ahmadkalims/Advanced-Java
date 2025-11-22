@@ -70,3 +70,13 @@ public class ThreadTest1
 		new C().start();
 	}
 }
+
+// This program demonstrates thread yielding and sleeping in Java multithreading.
+//output will be:
+// From Thread A: i = 1
+// From Thread B: j = 1
+// From Thread C: k = 1
+// ... (interleaved output from threads A, B, and C) ...
+// Exit from A
+// Exit from B
+// Exit from C

@@ -31,3 +31,8 @@ public class StaticClassExample
 		
 	}
 }
+
+//Output:
+//Hello from OuterClass
+//From Inner
+//Message from StaticInnerClass

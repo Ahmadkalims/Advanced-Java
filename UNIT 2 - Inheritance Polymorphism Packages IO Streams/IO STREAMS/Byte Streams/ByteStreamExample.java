@@ -18,3 +18,6 @@ public class ByteStreamExample {
         }
     }
 }
+
+//output:
+//File copied using byte stream.

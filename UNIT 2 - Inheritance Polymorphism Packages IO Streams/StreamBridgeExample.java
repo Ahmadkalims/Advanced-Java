@@ -29,3 +29,5 @@ public class StreamBridgeExample
         }
     }
 }
+
+//output.txt will contain the same content as input.txt but converted to uppercase using stream bridging.

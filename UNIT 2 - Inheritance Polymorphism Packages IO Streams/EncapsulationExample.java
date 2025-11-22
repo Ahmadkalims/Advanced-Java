@@ -38,3 +38,8 @@ public class EncapsulationExample
     }
 
 }
+
+// This program demonstrates encapsulation by using private fields and public getter/setter methods in the Person class.
+//output will be:
+// Name: John
+// Age: 30

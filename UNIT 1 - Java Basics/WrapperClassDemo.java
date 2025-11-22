@@ -60,3 +60,21 @@ public class WrapperClassDemo {
         System.out.println("Is '1' a letter? " + Character.isLetter(charWrapper));
     }
 }
+
+// Output:
+// Boolean Wrapper: true
+// Byte Wrapper: 10
+// Short Wrapper: 20
+// Integer Wrapper: 30
+// Long Wrapper: 100000
+// Float Wrapper: 5.75
+// Double Wrapper: 10.5
+// Character Wrapper: 1
+// Autoboxed Integer: 42
+// Unboxed Integer: 50
+// Parsed Integer from String: 123
+// Double Wrapper as String: 10.5
+// Maximum Integer value: 2147483647
+// Minimum Integer value: -2147483648
+// Is '1' a digit? true
+// Is '1' a letter? false   

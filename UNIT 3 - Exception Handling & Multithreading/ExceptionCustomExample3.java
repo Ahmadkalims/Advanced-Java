@@ -40,3 +40,6 @@ public class ExceptionCustomExample3
 		}
 	}
 }
+
+//output will be:
+// I am always here. 5

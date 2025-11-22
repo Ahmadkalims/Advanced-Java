@@ -71,3 +71,28 @@ public class SynchTest
 	}
 
 }
+
+// This program demonstrates synchronization in Java multithreading.
+//output will be:
+//          #
+//        # # # #
+//      # # # # # # # #
+//	# # # # # # # # # # #
+//  # # # # # # # # # # # # # #
+//# # # # # # # # # # # # # # # #	
+//          *
+//        * * * *	
+//      * * * * * * * *
+//	* * * * * * * * * * *
+//  * * * * * * * * * * * * * * *
+//* * * * * * * * * * * * * * * * *
+//          &
+//        & & & &
+//      & & & & & & & &
+//	& & & & & & & & & & &
+//  & & & & & & & & & & & & & &
+//& & & &
+//
+
+// Note: The order of the pyramids may vary, but each pyramid will be printed completely before the next one starts.
+// End of output.

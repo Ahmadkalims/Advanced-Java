@@ -15,3 +15,6 @@ public class ArraySubsetCharArrayToStringExample1
         System.out.println(resultString);   
     }  
 }  
+
+//Output:
+//World

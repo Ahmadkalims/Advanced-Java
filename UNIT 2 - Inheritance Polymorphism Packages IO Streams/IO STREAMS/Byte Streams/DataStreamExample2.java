@@ -29,3 +29,8 @@ public class DataStreamExample2
         }
     }
 }
+
+//output:
+//ID: 101
+//Score: 98.76
+//Message: Java Streams

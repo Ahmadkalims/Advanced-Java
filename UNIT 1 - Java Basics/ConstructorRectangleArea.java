@@ -41,3 +41,7 @@ public class ConstructorRectangleArea
 	}
 
 }
+
+//Output:
+//Area1 = 150
+//Area2 = 240

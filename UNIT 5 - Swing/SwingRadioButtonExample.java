@@ -43,3 +43,8 @@ public class SwingRadioButtonExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JRadioButton in a Swing application.
+//output will be:
+// A window with two groups of radio buttons labeled "Male", "Female" and "Father", "Mother".
+// Clicking "Show1" displays the selected gender, and clicking "Show2" displays the selected parental role.

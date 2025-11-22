@@ -56,3 +56,14 @@ public class InterfaceRunnableRunnableTest
 	}
 
 }
+
+// This program demonstrates creating and running threads using the Runnable interface in Java.
+//output will be:
+// End of Main Thread.
+// 		ThreadX: 1
+// 		ThreadY: 1
+// 		ThreadZ: 1
+// 		...
+// End of ThreadX
+// End of ThreadY
+// End of ThreadZ		

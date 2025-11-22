@@ -26,3 +26,6 @@ public class MethodStaticCalculate
 		  System.out.println(result);  
 	}
 }
+
+//Output:
+//Hello 125

@@ -35,3 +35,8 @@ public class MethodOverloadingMultiplicationExample
 		System.out.println("Multiplication of 3 duble = " + mul3);
 	}
 }
+
+//output will be:
+// Multiplication of 3 int = 6000
+// Multiplication of 3 long = 2052000000000000
+// Multiplication of 3 duble = 414907.12420832

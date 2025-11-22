@@ -43,3 +43,7 @@ public class KeyEventDemo extends Frame implements KeyListener
         new KeyEventDemo();
     }
 }
+
+// This program demonstrates handling keyboard events in an AWT application.
+//output will be:
+// A window with a text field. Pressing keys in the text field displays the pressed key in a label.

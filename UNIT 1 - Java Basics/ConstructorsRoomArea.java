@@ -41,3 +41,8 @@ public class ConstructorsRoomArea
 	}
 
 }
+
+
+//Output:
+//Area of room = 300.0
+//Area of room = 1225.0

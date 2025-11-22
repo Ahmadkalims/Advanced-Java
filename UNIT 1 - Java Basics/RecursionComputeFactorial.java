@@ -30,3 +30,6 @@ public class RecursionComputeFactorial
 	}
 
 }
+
+//Output:
+//Factorial of 5 = 120

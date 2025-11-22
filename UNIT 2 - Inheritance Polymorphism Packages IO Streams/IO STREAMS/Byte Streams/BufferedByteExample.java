@@ -28,3 +28,6 @@ public class BufferedByteExample
         }
     }
 }
+
+//output:
+//File copied successfully using buffered streams!

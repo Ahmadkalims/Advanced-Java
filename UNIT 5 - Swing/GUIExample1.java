@@ -88,3 +88,8 @@ public class GUIExample1 extends JFrame {
         });
     }
 }
+
+// This program demonstrates a simple AWT application with various GUI components and event handling.
+//output will be:
+// A window with checkboxes, choice dropdown, list box, text area, scrollbar, and
+// menu. Interacting with these components will log messages in the text area.

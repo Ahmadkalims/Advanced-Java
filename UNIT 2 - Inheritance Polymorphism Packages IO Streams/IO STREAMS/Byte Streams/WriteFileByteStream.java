@@ -19,3 +19,5 @@ public class WriteFileByteStream
         }
     }
 }
+
+//output.txt file will be created with the content "Hello Java I/O Streams!":

@@ -59,3 +59,8 @@ public class AWTApp extends Frame
 		AWTApp awt = new AWTApp();    
 	}  
 }  
+
+// This program demonstrates a simple AWT application with labels, text fields, and buttons.
+// It also handles window closing event to terminate the application gracefully.
+//output will be:
+// A window with fields for First Name, Last Name, Date of Birth, and Submit/Reset buttons

@@ -45,3 +45,8 @@ public class KeyEventDemoWithAdapterClass extends KeyAdapter
         new KeyEventDemo();
     }
 }
+
+// This program demonstrates handling keyboard events in an AWT application using KeyAdapter class.
+//output will be:
+// A window with a text field. Pressing keys in the text field displays the pressed key
+// in a label.

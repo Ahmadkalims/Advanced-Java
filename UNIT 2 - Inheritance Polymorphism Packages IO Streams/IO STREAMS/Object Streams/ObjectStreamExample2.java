@@ -47,3 +47,8 @@ public class ObjectStreamExample2
         }
     }
 }
+
+
+//output will be:
+// Object serialized successfully.
+// Object deserialized: 101, Piyush, 95.5

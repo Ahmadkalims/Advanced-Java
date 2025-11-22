@@ -27,3 +27,8 @@ public class SwingListExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JList in a Swing application.
+//output will be:
+// A window with a list of programming languages and a button labeled "Show Selected".
+// Selecting items in the list and clicking the button shows a dialog with the selected items.

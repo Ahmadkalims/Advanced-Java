@@ -25,3 +25,8 @@ public class StaticCounterTest
 		Counter c3=new Counter();  		
 	}
 }
+
+//Output:
+//8
+//9
+//10

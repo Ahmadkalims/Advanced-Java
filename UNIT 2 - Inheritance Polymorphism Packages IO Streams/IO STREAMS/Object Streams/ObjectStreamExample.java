@@ -38,3 +38,8 @@ public class ObjectStreamExample {
         }
     }
 }
+
+// This program serializes a Person object to "person.dat" and then deserializes it back, displaying the object's details on the console.
+//output will be:
+// Object written using ObjectOutputStream.
+// Read Object: Person{name='Alice', age=30}

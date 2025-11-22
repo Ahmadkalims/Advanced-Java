@@ -22,3 +22,5 @@ public class ReadFileByteStream
         }
     }
 }
+//output:
+//Contents of input.txt will be displayed on the console.

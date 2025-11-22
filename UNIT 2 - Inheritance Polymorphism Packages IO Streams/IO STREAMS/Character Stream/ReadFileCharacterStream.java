@@ -20,3 +20,6 @@ public class ReadFileCharacterStream
         }
     }
 }
+
+// This program reads the content of "input.txt" and displays it on the console using FileReader.
+//output will be the content of input.txt displayed on the console.

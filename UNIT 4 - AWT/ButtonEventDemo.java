@@ -37,3 +37,9 @@ public class ButtonEventDemo extends WindowAdapter implements ActionListener
         new ButtonEventDemo();
     }
 }
+
+// This program demonstrates handling button click events in an AWT application.
+//output will be:
+// A window with a button labeled "Click Me"
+// When the button is clicked, "Button was clicked!" will be printed to the console
+// When the window is closed, the application will terminate gracefully.

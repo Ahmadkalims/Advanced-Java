@@ -25,3 +25,7 @@ public class FlowLayoutExample
         frame.setVisible(true);
     }
 }
+
+// This program demonstrates the use of FlowLayout in a Swing application.
+//output will be:
+// A window with nine buttons arranged using FlowLayout.

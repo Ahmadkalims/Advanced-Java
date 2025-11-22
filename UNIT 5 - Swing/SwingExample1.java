@@ -21,3 +21,7 @@ public class SwingExample1
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program creates a simple Swing application with a button.
+//output will be:
+// A window with a button labeled "Click Me!".

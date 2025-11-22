@@ -26,3 +26,7 @@ public class StaticMethodMathApplication
 	}
 
 }
+
+//Output:
+//a = 5654.82712
+//b = 36.02848101265823

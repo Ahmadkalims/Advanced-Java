@@ -15,3 +15,5 @@ public class LogiacalOPExample1
 	}
 
 }
+//Output:
+//77 154 231 308 385 462 539 616 693 770 847 924 1001

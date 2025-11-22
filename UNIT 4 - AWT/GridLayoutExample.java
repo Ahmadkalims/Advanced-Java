@@ -30,3 +30,7 @@ public class GridLayoutExample
         frame.setVisible(true);
     }
 }
+
+// This program demonstrates the use of GridLayout in a Swing application.
+//output will be:
+// A window with nine buttons arranged in a grid layout with 2 rows and 4 columns.

@@ -46,3 +46,9 @@ public class InheritanceMultipleExample
     }
 
 }
+
+// This program demonstrates multiple inheritance in Java using interfaces.
+//output will be:
+// Addition : 3
+// Substraction : 1
+// Multiplication : 2

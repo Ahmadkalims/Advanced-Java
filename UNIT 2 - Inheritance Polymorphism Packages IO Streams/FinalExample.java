@@ -120,3 +120,13 @@ public class FinalExample
 	}
 
 }
+
+// This program demonstrates the use of the final keyword in Java
+//output will be:
+//Value of PI: 3.14159
+//Piyush
+//Piyush Kumar Gupta
+//The value is: 10
+//Hello, world!
+//Hello!
+//Hello, final!

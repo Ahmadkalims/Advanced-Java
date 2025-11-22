@@ -20,3 +20,7 @@ class Super1
 		d.printColor();
 	}
 }  
+// This program demonstrates the use of 'super' keyword to access parent class members in Java.
+//output will be:
+// black
+// white

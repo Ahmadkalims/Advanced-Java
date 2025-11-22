@@ -26,3 +26,5 @@ public class FileReaderWriterExample {
         }
     }
 }
+
+// This program writes a string to "fileReaderWriterExample.txt" and then reads it back, displaying the content on the console.

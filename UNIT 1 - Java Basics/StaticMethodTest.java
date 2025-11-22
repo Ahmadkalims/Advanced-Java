@@ -40,3 +40,8 @@ public class StaticMethodTest
     	s3.display();  
     }  
 } 
+
+// Output:
+// 111 Karan BBDIT
+// 222 Aryan BBDIT
+// 333 Sonoo BBDIT  

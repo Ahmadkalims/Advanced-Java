@@ -64,3 +64,8 @@ class AWTExample2
    }  
   
 }
+
+// This program demonstrates a simple AWT application with a label, text field, and button.
+//output will be:
+// A window with a label "Employee id:", a text field, and a "Submit" button
+// When the window is closed, the application will terminate gracefully.

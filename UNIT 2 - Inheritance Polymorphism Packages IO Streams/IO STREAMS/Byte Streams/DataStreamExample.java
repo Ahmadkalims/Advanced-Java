@@ -28,3 +28,7 @@ public class DataStreamExample {
         }
     }
 }
+
+//output:
+//Data written using DataOutputStream.
+//Read Data: 123, 45.67, true

@@ -73,3 +73,9 @@ public class InheritanceExample
     }
 
 }
+
+// This program demonstrates inheritance in Java by creating a base class Bicycle and a derived class MountainBike.
+//output will be:
+// No of gears are: 3
+// Speed of bicycle is: 100
+// Seat height is: 25

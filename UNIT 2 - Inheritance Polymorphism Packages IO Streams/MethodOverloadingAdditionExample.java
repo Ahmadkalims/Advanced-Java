@@ -45,3 +45,9 @@ public class MethodOverloadingAdditionExample
 	}
 
 }
+
+// This program demonstrates method overloading in Java.
+//output will be:
+// Addition of 3 int = 60
+// Addition of 2 int = 45
+// Addition of 1 int = 250

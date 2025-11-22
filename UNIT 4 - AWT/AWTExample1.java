@@ -53,3 +53,7 @@ public class AWTExample1 extends Frame
    }  
   
 }    
+// This program demonstrates a basic AWT application with a button.
+//output will be:
+// A window with a button labeled "Click Me!!"
+// When the window is closed, the application will terminate gracefully.

@@ -21,3 +21,6 @@ public class WrapperExample1
 	}
 
 }
+
+// Output:
+// True

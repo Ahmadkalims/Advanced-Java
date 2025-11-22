@@ -28,3 +28,5 @@ public class BufferedCharacterExample
         }
     }
 }
+
+//output_buffered.txt will contain the same content as input.txt but written using buffered streams.

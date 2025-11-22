@@ -9,3 +9,7 @@ public class CmdLineExample
 	    }
 	}
 }
+
+//Output (if run with arguments "Hello World"):
+//0 argument: Hello
+//1 argument: World

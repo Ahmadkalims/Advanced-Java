@@ -27,3 +27,10 @@ public class ScannerExample3
         scanner.close();  
     }
 }
+
+//  Output:
+//Boolean Result: false
+//---Tokenizes String---
+//Hello/This is 
+// Java Class/My name is Piyush.
+//Delimiter used: ,

@@ -86,3 +86,19 @@ public class WaitNotifyDemo
         new P(shared).start();
     }
 }
+
+// This program demonstrates inter-thread communication using wait() and notify() in Java.
+//output will be:
+// Thread Q waiting for P to finish...
+// Thread P: 1
+// Thread P: 2
+// Thread P: 3
+// Thread P: 4
+// Thread P: 5
+// Thread P completed work, notifying Thread Q...
+// Thread Q resumes after notification.
+// Thread Q: 1
+// Thread Q: 2
+// Thread Q: 3
+// Thread Q: 4
+// Thread Q: 5

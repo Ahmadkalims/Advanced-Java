@@ -32,3 +32,9 @@ public class InheritanceMultiLevelInheritance
 		d.eat();  
 	}
 }
+
+// This program demonstrates multilevel inheritance in Java.
+//output will be:
+// weeping...
+// barking...
+// eating...

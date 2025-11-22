@@ -23,3 +23,8 @@ public class SwingWindowExample
         window.dispose(); // Close window
     }
 }
+
+// This program demonstrates the use of JWindow in a Swing application.
+//output will be:
+// A window with a label "Welcome to Swing!" centered on the screen.
+// The window is displayed for 15 seconds and then closes automatically.

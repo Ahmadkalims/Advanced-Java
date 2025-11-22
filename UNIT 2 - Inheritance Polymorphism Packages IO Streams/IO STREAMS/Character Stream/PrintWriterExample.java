@@ -19,3 +19,6 @@ public class PrintWriterExample
         }
     }
 }
+
+//Output:
+//Data written using PrintWriter.

@@ -26,3 +26,8 @@ public class SwingMenuExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JMenuBar, JMenu, and JMenuItem in a Swing application.
+//output will be:
+// A window with a menu bar containing "File" and "Edit" menus.
+// The "File" menu has "Cut", "Copy", and "Paste" menu items.

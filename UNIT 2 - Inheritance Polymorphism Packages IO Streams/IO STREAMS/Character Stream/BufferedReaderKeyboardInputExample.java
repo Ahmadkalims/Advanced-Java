@@ -17,3 +17,8 @@ public class BufferedReaderKeyboardInputExample
         }
     }
 }
+
+// This program reads a name from keyboard input and greets the user.
+//output will be like:
+// Enter your name: John
+// Hello, John!

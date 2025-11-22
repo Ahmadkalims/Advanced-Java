@@ -26,3 +26,7 @@ public class BorderLayoutExample
         frame.setVisible(true);
     }
 }
+
+// This program demonstrates the use of BorderLayout in a Swing application.
+//output will be:
+// A window with five buttons arranged in the BorderLayout regions: North, South, East, West, and Center.

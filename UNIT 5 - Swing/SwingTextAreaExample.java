@@ -20,3 +20,8 @@ public class SwingTextAreaExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JTextArea in a Swing application.
+//output will be:
+// A window with a text area and a button labeled "Show Text".
+// Typing text in the text area and clicking the button shows a dialog with the entered text.

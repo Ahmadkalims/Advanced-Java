@@ -19,3 +19,8 @@ public class SwingTextFieldExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JTextField in a Swing application.
+//output will be:
+// A window with a text field and a button labeled "Show Text".
+// Typing text in the text field and clicking the button shows a dialog with the entered text.

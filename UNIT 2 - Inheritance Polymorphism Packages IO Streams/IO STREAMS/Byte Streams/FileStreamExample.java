@@ -26,3 +26,7 @@ public class FileStreamExample {
         }
     }
 }
+
+//output:
+//Data written to file.
+//Example data for FileInputStream and FileOutputStream.

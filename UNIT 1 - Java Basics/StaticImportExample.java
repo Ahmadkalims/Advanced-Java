@@ -9,3 +9,7 @@ class StaticImportExample
 		out.println("Java");
 	}   
 }      
+
+//Output:
+//Hello
+//Java

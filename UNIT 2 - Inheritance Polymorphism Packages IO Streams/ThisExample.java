@@ -67,3 +67,14 @@ public class ThisExample
 	}
 
 }
+
+// This program demonstrates the use of 'this' keyword in Java.
+//output will be:
+// a= 10
+// b= 20
+// c= 30
+// a= 10
+// b= 20
+// Inside show
+// Inside show
+// Inside display

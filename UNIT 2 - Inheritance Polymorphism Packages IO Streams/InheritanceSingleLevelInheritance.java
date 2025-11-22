@@ -45,3 +45,8 @@ public class InheritanceSingleLevelInheritance
 	}
 
 }
+
+// This program demonstrates single level inheritance in Java.
+//output will be:
+// Area of BedRoom = 168
+// Volume of BedRoom = 1680

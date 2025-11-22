@@ -19,3 +19,6 @@ class ExceptionExample1
 	//	System.out.println("x="+x);
 	}
 }
+//output will be:
+// Division by zero
+// y=1

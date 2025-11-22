@@ -36,4 +36,8 @@ class Super2
 		Dog1 d=new Dog1();
 		d.work();
 	}
-}  
+}
+// This program demonstrates the use of 'super' keyword to call superclass methods in Java.
+//output will be:
+// eating...
+// barking...

@@ -22,3 +22,5 @@ public class WrapperExample2
 	}
 }   
 
+// Output:
+// 3 3 3 5 5

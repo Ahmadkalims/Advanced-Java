@@ -18,3 +18,5 @@ public class CharacterStreamExample {
         }
     }
 }
+
+//output.txt will contain the same content as input.txt but written using character streams.

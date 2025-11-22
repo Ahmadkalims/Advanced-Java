@@ -28,3 +28,14 @@ public class ScannerExample2
     }
 
 }
+
+//  Output:
+//Boolean Result: true
+//String: Hello, This is Java Class
+//--------Enter Your Details-------- 
+//Enter your name: Avinash
+//Name: Avinash
+//Enter your age: 25
+//Age: 25
+//Enter your salary: 50000.0
+//Salary: 50000.0

@@ -43,3 +43,7 @@ class PolymorphismTest
 		System.out.println("AXIS Rate of Interest: "+b.getRateOfInterest());
 	}  
 }  
+//output will be:
+// SBI Rate of Interest: 8.4
+// ICICI Rate of Interest: 7.3
+// AXIS Rate of Interest: 9.7

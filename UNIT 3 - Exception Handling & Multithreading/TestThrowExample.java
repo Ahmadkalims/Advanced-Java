@@ -27,3 +27,6 @@ public class TestThrowExample
 		}
 	}
 }    
+
+//output will be:
+// Access denied - You must be 18+

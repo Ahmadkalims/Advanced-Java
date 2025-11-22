@@ -29,3 +29,7 @@ public class SwingCheckBoxExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JCheckBox in a Swing application.
+//output will be:
+// A window with three checkboxes labeled "C++", "Java", and "Python", and a button. Clicking the button shows a dialog with the selected checkboxes.

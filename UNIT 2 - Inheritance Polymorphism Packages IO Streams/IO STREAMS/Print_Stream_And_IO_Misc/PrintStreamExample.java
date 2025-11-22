@@ -15,3 +15,6 @@ public class PrintStreamExample {
         }
     }
 }
+
+// This program writes formatted data to "printStream.txt" using PrintStream.
+//output will be the content written to printStream.txt file.

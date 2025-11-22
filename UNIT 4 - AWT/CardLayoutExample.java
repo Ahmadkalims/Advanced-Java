@@ -56,3 +56,8 @@ public class CardLayoutExample
         frame.setVisible(true);
     }
 }
+
+// This program demonstrates the use of CardLayout in a Swing application.
+//output will be:
+// A window with three cards that can be navigated using "Next", "Previous", and "Go to Card 2" buttons.
+// Each card displays a different background color and label.

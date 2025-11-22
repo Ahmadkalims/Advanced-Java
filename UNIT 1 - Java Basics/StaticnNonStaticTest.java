@@ -59,3 +59,8 @@ public class StaticnNonStaticTest
 
 
 }
+
+// Output:
+// Message from nested static class: Hello World
+// Message from non-static nested class: Hello World10
+// Message from non-static nested class: Hello World10

@@ -19,3 +19,6 @@ public class DestructorExample
 	}
 
 }
+
+//Output:
+//Object is destroyed by the Garbage Collector.

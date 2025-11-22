@@ -18,3 +18,7 @@ public class ScannerExample1
 	}
 
 }
+
+//Output:
+//Enter your name: Avinash
+//Name is: Avinash

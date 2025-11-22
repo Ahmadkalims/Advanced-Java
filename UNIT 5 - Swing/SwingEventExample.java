@@ -111,3 +111,6 @@ public class SwingEventExample extends JFrame {
     }
 }
 
+// This program demonstrates various Swing components with event handling in a Swing application.
+//output will be:
+// A window with various Swing components including buttons, toggle button, checkboxes, radio button, list, combo box, text area, and buttons to open JDialog and JWindow. Interacting with these components logs events in the text area.

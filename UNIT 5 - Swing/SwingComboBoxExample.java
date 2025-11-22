@@ -22,3 +22,8 @@ public class SwingComboBoxExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JComboBox in a Swing application.
+//output will be:
+// A window with a dropdown combo box containing country names and a button.
+// Selecting a country and clicking the button shows a dialog with the selected country.

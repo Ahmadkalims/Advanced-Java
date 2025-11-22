@@ -89,3 +89,14 @@ public class InheritanceHybrid
 	}
 
 }
+
+// This program demonstrates hybrid inheritance in Java using classes and interfaces.
+//output will be:
+// Roll Number: 1234
+// Marks Obtained
+// part1 = 27.5
+// part2 = 33.0
+// Sports Wt = 6.0
+// Total Score = 66.5
+// Inside Test
+// Inside Results

@@ -30,3 +30,7 @@ public class InnerClassEventDemo extends Frame
         new InnerClassEventDemo();
     }
 }
+
+// This program demonstrates handling button click events using an inner class in an AWT application.
+//output will be:
+// A window with a button labeled "Click Me". Clicking the button prints a message to the console.

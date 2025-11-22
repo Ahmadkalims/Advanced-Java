@@ -16,3 +16,6 @@ public class WriteFileCharacterStream
         }
     }
 }
+
+// This program writes a string to "char_output.txt" using FileWriter.
+//output will be the content "Character Stream Example in Java!" written to char_output.txt.

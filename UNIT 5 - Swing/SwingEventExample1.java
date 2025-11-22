@@ -29,3 +29,9 @@ public class SwingEventExample1
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates a simple Swing application with a button and a text field.
+//output will be:
+// A window with a button labeled "Click Here" and a text field.
+// Clicking the button sets the text field to "Welcome to Swing!".
+

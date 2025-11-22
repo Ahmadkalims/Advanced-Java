@@ -34,3 +34,8 @@ public class ParameterizedConstructorExample
                 + "...StudentId: " + s3.id+"...StudentAge: " + s3.age);
     }
 }
+
+//Output:
+//Default
+//StudentName: Avinash...StudentId: 68...StudentAge: 0
+//StudentName: Kailash...StudentId: 0...StudentAge: 0

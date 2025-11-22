@@ -42,3 +42,7 @@ public class InterfaceTest
 	}
 
 }
+
+// Output will be:
+// Area of rectangle = 200.0
+// Area of circle = 314.0

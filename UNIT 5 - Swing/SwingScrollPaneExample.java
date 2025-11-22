@@ -17,3 +17,7 @@ public class SwingScrollPaneExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JScrollPane in a Swing application.
+//output will be:
+// A window with a text area inside a scroll pane, allowing scrolling when the text exceeds the visible area.

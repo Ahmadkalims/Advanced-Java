@@ -37,3 +37,8 @@ class Super3
 		Dog2 d=new Dog2();
 	}
 } 
+
+// This program demonstrates the use of 'super' keyword in Java inheritance.
+//output will be:
+// animal is created
+// dog is created

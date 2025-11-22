@@ -20,3 +20,6 @@ public class BufferedStreamExample {
         }
     }
 }
+
+//output:
+//File copied using buffered stream.

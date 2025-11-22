@@ -28,3 +28,7 @@ public class MethodsCircleArea
 	}
 
 }
+
+//	Output:
+//Area of circle = 314.0
+//Area of circle = 1256.0

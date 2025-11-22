@@ -21,3 +21,6 @@ class ParametrizedConstructorStudent
    System.out.println(s2);//compiler writes here s2.toString()  
  }  
 }
+
+//Output:
+//ParametrizedConstructorStudent@15db9742

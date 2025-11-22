@@ -26,3 +26,7 @@ class MethodOverridingStudent1
    System.out.println(s2);//compiler writes here s2.toString()  
  }  
 }  
+
+//Output:
+//101 Raj lucknow
+//102 Vijay ghaziabad

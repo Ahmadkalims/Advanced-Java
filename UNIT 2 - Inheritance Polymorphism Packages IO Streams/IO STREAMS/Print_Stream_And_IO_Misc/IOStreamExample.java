@@ -57,3 +57,7 @@ public class IOStreamExample {
         }
     }
 }
+
+// This program demonstrates the use of byte streams and character streams in Java for file I/O operations.
+//output will be the creation of sourceByteFile.bin and sourceTextFile.txt with respective data,
+// and their copies destinationByteFile.bin and destinationTextFile.txt.

@@ -49,3 +49,7 @@ public class GridBagLayoutExample extends JFrame
         setDefaultCloseOperation(EXIT_ON_CLOSE);  
     }     
 }  
+
+// This program demonstrates the use of GridBagLayout in a Swing application.
+//output will be:
+// A window with five buttons arranged using GridBagLayout with different constraints.

@@ -45,3 +45,9 @@ public class MethodOverridePolymorphismTest
 	}
 
 }
+
+// This program demonstrates method overriding and polymorphism in Java.
+//output will be:
+// Super x = 15
+// Super x = 25
+// Sub y = 45

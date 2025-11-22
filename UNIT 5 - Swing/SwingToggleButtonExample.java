@@ -24,3 +24,8 @@ public class SwingToggleButtonExample
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+// This program demonstrates the use of JToggleButton in a Swing application.
+//output will be:
+// A window with a toggle button labeled "ON".
+// Clicking the toggle button switches its label between "ON" and "OFF".   

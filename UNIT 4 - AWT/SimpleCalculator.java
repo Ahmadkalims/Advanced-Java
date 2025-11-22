@@ -314,3 +314,7 @@ class SimpleCalculator extends WindowAdapter implements ActionListener
        new SimpleCalculator();  
   }
 }  
+
+// This program creates a simple calculator using AWT in Java.
+//output will be:
+// A window with buttons for digits 0-9, decimal point, arithmetic operations, and a display area. Users can perform basic arithmetic calculations.

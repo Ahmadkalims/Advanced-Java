@@ -52,3 +52,16 @@ public class ThreadExample
 	}
 
 }
+
+// This program demonstrates creating and running threads by extending the Thread class in Java.
+//output will be:
+// From Thread One: i = 1
+// From Thread Two: j = 1
+// From Thread Three: k = 1
+// ...
+// From Thread One: i = 100
+// Exit from One
+// From Thread Two: j = 100
+// Exit from Two
+// From Thread Three: k = 100
+// Exit from Three

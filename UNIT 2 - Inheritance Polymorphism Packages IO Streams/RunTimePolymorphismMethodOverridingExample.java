@@ -45,3 +45,8 @@ public class RunTimePolymorphismMethodOverridingExample
 	        a.Print();
 	  }
 }
+
+//output will be:
+// parent class
+// subclass1
+// subclass2

@@ -27,3 +27,11 @@ public class FileExample {
         System.out.println("Is file writable? " + file.canWrite());
     }
 }
+
+// This program creates a file named "exampleFile.txt" if it doesn't exist and displays its properties.
+//output will be like:
+// File created: exampleFile.txt
+// File path: /path/to/exampleFile.txt
+// File size: 0 bytes
+// Is file readable? true
+// Is file writable? true

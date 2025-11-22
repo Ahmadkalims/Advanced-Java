@@ -36,3 +36,6 @@ class ExceptionNestedExample2
 
 	}
 }
+//output will be:
+// Invalid index!
+// This will always execute

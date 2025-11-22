@@ -16,3 +16,8 @@ public class StaticBlockExample
 	
 	
 }
+
+//Output:
+//static block is invoked1
+//static block is invoked2
+//Hello main

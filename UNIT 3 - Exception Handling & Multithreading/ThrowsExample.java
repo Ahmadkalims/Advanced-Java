@@ -30,3 +30,6 @@ public class ThrowsExample
 	}
 
 }
+
+// This program demonstrates the use of 'throws' keyword for exception handling in Java.
+//output will be:

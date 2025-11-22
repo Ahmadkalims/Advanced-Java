@@ -20,3 +20,7 @@ public class BoxLayoutExample
         frame.setVisible(true);
     }
 }
+
+// This program demonstrates the use of BoxLayout in a Swing application.
+//output will be:
+// A window with three buttons arranged vertically using BoxLayout.
