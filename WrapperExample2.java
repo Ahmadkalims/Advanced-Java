@@ -1,0 +1,23 @@
+//Java program to convert object into primitives  
+//Unboxing example of Integer to int  
+public class WrapperExample2
+{
+	public static void main(String args[])
+	{
+		
+		//Converting Integer to int    
+		Integer a=3;//new Integer(3);  
+		
+		Integer b = Integer.valueOf(5);
+		
+		int i=a.intValue();//converting Integer to int explicitly  
+		
+		int j=a;//unboxing, now compiler will write a.intValue() internally  
+		
+		int k = b;
+    
+		System.out.println(a+" "+i+" "+j+" "+b+" "+k);    
+
+	}
+}   
+
