@@ -1,5 +1,5 @@
 // Example of calculating area of circle using methods in a class
-public class CircleArea 
+public class MethodsCircleArea 
 {
 	int r;
 	
@@ -12,7 +12,7 @@ public class CircleArea
 
 	public static void main(String[] args)
 	{
-		CircleArea ca=new CircleArea();
+		MethodsCircleArea ca=new MethodsCircleArea();
 		ca.r=10;
 		
 		double area1, area2;

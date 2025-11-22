@@ -1,3 +1,4 @@
+// This program demonstrates the use of Stream Bridging in Java to read from a file using byte streams and write to another file using character streams.
 import java.io.*;
 
 public class StreamBridgeExample

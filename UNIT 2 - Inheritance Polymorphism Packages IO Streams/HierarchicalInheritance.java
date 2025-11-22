@@ -1,3 +1,4 @@
+// this program demonstrates hierarchical inheritance in Java
 class Animal1
 {
 	void eat()

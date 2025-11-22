@@ -21,7 +21,7 @@ class Prime
 	}
 }
 
-public class PrimeNumbers 
+public class NestedLoopsPrimeNumbers 
 {
 
 	public static void main(String[] args)

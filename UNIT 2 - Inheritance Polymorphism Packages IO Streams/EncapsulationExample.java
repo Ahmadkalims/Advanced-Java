@@ -1,4 +1,4 @@
-
+// this program demonstrates encapsulation in Java
 class Person
 {
     private String name;

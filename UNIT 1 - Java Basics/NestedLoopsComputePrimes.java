@@ -22,7 +22,7 @@ class Prime
 	}
 }
 
-public class ComputePrimes 
+public class NestedLoopsComputePrimes 
 {
 
 	public static void main(String[] args) 

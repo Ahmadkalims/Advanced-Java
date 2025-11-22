@@ -1,4 +1,4 @@
-
+// Example of implementing Runnable interface to create threads in Java
 class X implements Runnable
 {
 	public void run()
@@ -35,7 +35,7 @@ class Z implements Runnable
 	}
 }
 
-public class RunnableTest 
+public class InterfaceRunnableRunnableTest 
 {
 
 	public static void main(String[] args) 

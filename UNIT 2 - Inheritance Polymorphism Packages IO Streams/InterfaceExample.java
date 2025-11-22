@@ -1,3 +1,4 @@
+// This program demonstrates various features of interfaces in Java
 interface A
 {
 	final int a = 10;

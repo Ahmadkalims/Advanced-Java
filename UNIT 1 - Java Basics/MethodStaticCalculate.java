@@ -17,7 +17,7 @@ class CalCube
 	  return x*x*x;  
   }    
 }  
-public class Calculate
+public class MethodStaticCalculate
 {
 	public static void main(String args[])
 	{  

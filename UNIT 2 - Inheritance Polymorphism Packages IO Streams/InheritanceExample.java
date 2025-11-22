@@ -1,4 +1,4 @@
-
+// Java program to demonstrate inheritance 
 class Bicycle 
 {
     

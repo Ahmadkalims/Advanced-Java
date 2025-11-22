@@ -19,7 +19,7 @@ class Factorial
 	}
 }
 
-public class ComputeFactorial 
+public class RecursionComputeFactorial 
 {
 
 	public static void main(String[] args) 

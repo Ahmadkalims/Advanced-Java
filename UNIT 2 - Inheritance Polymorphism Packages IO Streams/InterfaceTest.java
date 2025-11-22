@@ -1,4 +1,4 @@
-
+// This program demonstrates the use of interfaces in Java
 interface Area
 {
 	final static double pi = 3.14;

@@ -1,3 +1,4 @@
+// This program demonstrates the use of the final keyword in Java
 // Example of final keyword in Java
 /*final class A
 {

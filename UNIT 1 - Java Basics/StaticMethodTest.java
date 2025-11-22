@@ -25,7 +25,7 @@ class Student
      }  
 }  
 
-public class TestStaticMethod
+public class StaticMethodTest
 {  
     public static void main(String args[])
     {

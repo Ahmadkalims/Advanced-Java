@@ -1,5 +1,5 @@
 // Example of converting a char array to a String using a subset of the array
-public class CharArrayToStringExample1
+public class ArraySubsetCharArrayToStringExample1
 {  
     public static void main(String[] args) 
     {  

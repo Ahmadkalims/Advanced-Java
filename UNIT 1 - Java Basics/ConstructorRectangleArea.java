@@ -19,7 +19,7 @@ class Rectangle
 }
 
 
-public class RectangleArea 
+public class ConstructorRectangleArea 
 {
 
 	public static void main(String[] args) 

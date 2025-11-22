@@ -1,3 +1,4 @@
+// Example of calculating area of rooms using constructors in Java
 class Room
 {
 	int length, breadth;
@@ -23,7 +24,7 @@ class Room
 }
 
 
-public class RoomArea 
+public class ConstructorsRoomArea 
 {
 
 	public static void main(String[] args) 

@@ -12,7 +12,7 @@ class Counter
 	}  
 }
   
-public class CounterTest
+public class StaticCounterTest
 {
 
 	public static void main(String args[])
