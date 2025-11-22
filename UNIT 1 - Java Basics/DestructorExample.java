@@ -1,4 +1,4 @@
-
+// Example of Destructor in Java using finalize() method
 public class DestructorExample 
 {
 

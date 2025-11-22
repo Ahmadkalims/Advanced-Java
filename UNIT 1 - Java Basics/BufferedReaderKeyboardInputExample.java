@@ -1,5 +1,5 @@
 import java.io.*;
-
+// Example of taking keyboard input using BufferedReader
 public class KeyboardInputExample 
 {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-
+// Example of command line arguments in Java
 public class CmdLineExample 
 {
 	public static void main(String[] args)

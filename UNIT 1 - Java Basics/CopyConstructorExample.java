@@ -1,3 +1,4 @@
+// Example of Copy Constructor in Java
 class Student2
 {
     String name;

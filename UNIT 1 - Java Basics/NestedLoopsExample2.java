@@ -1,4 +1,4 @@
-
+// Example of printing all prime numbers from 1 to 1000 using nested loops
 public class Example2 
 {
 

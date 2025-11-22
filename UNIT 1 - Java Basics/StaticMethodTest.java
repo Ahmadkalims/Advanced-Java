@@ -1,3 +1,4 @@
+// Example of Static Method in Java
 class Student
 {  
      int rollno;  

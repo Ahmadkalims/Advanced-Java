@@ -1,4 +1,4 @@
-
+// Example of calculating area of rectangles using constructors and methods in Java
 class Rectangle
 {
 	int length, width;

@@ -1,3 +1,4 @@
+// Example of using Scanner to read from a string and user input in Java
 import java.util.*;  
  
 public class ScannerExample2 

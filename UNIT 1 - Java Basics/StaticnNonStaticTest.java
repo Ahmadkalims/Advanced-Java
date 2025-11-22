@@ -1,4 +1,4 @@
-
+// Example of Static and Non-Static Inner Classes in Java
 class OuterClass1
 {
 	int a=10;
@@ -25,7 +25,7 @@ class OuterClass1
 	}
 }
 
-public class Test
+public class StaticnNonStaticTest
 {
 
 	public static void main(String args[])

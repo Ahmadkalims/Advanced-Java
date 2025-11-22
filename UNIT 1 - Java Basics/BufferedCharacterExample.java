@@ -1,5 +1,5 @@
 import java.io.*;
-
+// Example of using BufferedReader and BufferedWriter
 public class BufferedCharacterExample 
 {
     public static void main(String[] args)

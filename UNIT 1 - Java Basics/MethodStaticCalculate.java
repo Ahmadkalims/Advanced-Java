@@ -1,3 +1,5 @@
+// Example of static method and variables in a class by calculating cube of a number
+
 class CalCube
 {  
 	static int y;

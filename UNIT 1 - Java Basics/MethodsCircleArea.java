@@ -1,4 +1,4 @@
-
+// Example of calculating area of circle using methods in a class
 public class CircleArea 
 {
 	int r;

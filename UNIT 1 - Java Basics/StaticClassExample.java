@@ -1,4 +1,4 @@
-
+// Example of Static Inner Class in Java
 class OuterClass
 {
 	static String note = "Hello from OuterClass";

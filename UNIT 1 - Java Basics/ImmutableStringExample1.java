@@ -1,3 +1,4 @@
+// Example of immutability of String objects in Java
 public class ImmutableStringExample1
 {  
     public static void main(String[] args) 

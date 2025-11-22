@@ -1,4 +1,4 @@
-
+// Example of for-each loop in Java with break statement
 public class ForEachExample
 {
 

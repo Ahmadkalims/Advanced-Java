@@ -1,3 +1,4 @@
+// Example of computing factorial of a number using recursion
 class Factorial
 {
 	int f;

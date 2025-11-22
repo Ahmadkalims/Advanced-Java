@@ -1,4 +1,4 @@
-
+// Example of final keyword in Java
 /*final class A
 {
      // methods and fields
@@ -23,6 +23,7 @@ class B extends A
         System.out.println("Illegal!");
     }
 }*/
+// Example of final variables in Java
 class Example
 {
 	final int THRESHOLD = 5;

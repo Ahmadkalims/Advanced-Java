@@ -1,3 +1,4 @@
+// Example of using PrintWriter to write formatted data to a file in Java
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;

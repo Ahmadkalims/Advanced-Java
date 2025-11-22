@@ -1,6 +1,6 @@
 //Java program to convert primitive into objects  
 //Autoboxing example of int to Integer  
- 
+ // Example of Wrapper class in Java
 public class WrapperExample1
 {
 	public static void main(String args[])

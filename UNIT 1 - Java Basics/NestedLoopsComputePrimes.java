@@ -1,8 +1,9 @@
-
+// Example of computing and printing prime numbers from 1 to 100 using nested loops
 class Prime
 {
 	int i,j;
-	void compute()
+	
+	void computePrime()
 	{
 		for(i=1;i<=100;i++)
 		{
@@ -21,13 +22,14 @@ class Prime
 	}
 }
 
-public class PrimeNumbers 
+public class ComputePrimes 
 {
 
-	public static void main(String[] args)
+	public static void main(String[] args) 
 	{
 		Prime p = new Prime();
-		p.compute();
+		p.computePrime();
+
 	}
 
 }

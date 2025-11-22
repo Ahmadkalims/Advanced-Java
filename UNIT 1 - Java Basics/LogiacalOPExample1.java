@@ -1,4 +1,4 @@
-
+// Example of printing numbers between 1 to 1000 that are divisible by both 7 and 11
 public class Example1 
 {
 

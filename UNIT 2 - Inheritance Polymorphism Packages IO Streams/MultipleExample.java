@@ -1,4 +1,4 @@
-
+// Example of Multiple Inheritance using Interfaces in Java
 interface Add
 {
     int add(int a, int b);

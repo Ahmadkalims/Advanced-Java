@@ -1,3 +1,4 @@
+// Example of String Memory Allotment in Java
 public class StringMemoryAllotmentExample1
 {  
     public static void main(String[] args)

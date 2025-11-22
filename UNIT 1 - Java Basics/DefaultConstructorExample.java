@@ -1,4 +1,4 @@
-
+// Example of Default Constructor in Java
 /*public class DefaultConstructorExample
 {
 	int a,b;
@@ -19,7 +19,7 @@
 	}
 
 }*/
-
+// Another way of writing Default Constructor Example
 class Cal
 {
 	int a,b;

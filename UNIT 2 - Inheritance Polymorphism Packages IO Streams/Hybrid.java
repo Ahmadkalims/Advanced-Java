@@ -1,4 +1,4 @@
-
+// Example of Hybrid Inheritance in Java using Classes and Interfaces
 class Student
 {
 	int rollNumber;

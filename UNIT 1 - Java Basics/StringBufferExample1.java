@@ -1,3 +1,4 @@
+// Example of StringBuffer operations in Java
 public class StringBufferExample1
 {  
     public static void main(String[] args) 

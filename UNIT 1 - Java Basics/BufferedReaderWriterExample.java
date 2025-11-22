@@ -4,6 +4,8 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+// Example of using BufferedReader and BufferedWriter and converting character streams
+
 public class BufferedReaderWriterExample {
     public static void main(String[] args) {
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader("input.txt"));

@@ -1,5 +1,6 @@
 //Java Program to convert all primitives into its corresponding   
 //wrapper objects and vice-versa  
+// Example of Wrapper class in Java
 public class WrapperExample3
 {  
 		public static void main(String args[])

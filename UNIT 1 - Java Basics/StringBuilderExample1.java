@@ -1,3 +1,4 @@
+// Example of StringBuilder operations in Java
 public class StringBuilderExample1
 {  
     public static void main(String[] args)

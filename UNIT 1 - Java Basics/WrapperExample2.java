@@ -1,5 +1,6 @@
 //Java program to convert object into primitives  
 //Unboxing example of Integer to int  
+// Example of Wrapper class in Java
 public class WrapperExample2
 {
 	public static void main(String args[])

@@ -1,5 +1,7 @@
 import java.io.*;
 
+// Example of using BufferedInputStream and BufferedOutputStream
+
 public class BufferedByteExample 
 {
     public static void main(String[] args)

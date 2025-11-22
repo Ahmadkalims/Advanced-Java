@@ -1,4 +1,4 @@
- 
+ // Example of Static Block in Java
 public class StaticBlockExample 
 {
 	

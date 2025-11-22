@@ -1,4 +1,4 @@
-
+// Example of Hello World program in Java
 public class HelloWorld
 {
 

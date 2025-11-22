@@ -1,3 +1,4 @@
+// Example of static variable to count number of instances created of a class 
 class Counter
 {
 	static int count;//will share the memory for every instances

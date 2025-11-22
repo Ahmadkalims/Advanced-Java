@@ -1,4 +1,4 @@
-
+// Example of Static Import in Java
 import static java.lang.System.*; 
 
 class StaticImportExample
